@@ -1,0 +1,14 @@
+dbt_project_flights:
+  target: dev
+  outputs:
+    dev:
+      type: mysql
+      server: localhost
+      port: 3306
+      schema: development
+      database: development
+      username: root
+      password: Aiy7vich3!Aiy7vich3!
+      ssl_disabled: True
+
+      
