@@ -8,7 +8,7 @@ dbt_project_flights:
       schema: development
       database: development
       username: root
-      password: Aiy7vich3!Aiy7vich3!
+      password: root
       ssl_disabled: True
 
       
